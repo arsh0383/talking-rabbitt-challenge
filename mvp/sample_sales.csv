@@ -1,0 +1,13 @@
+Region,Product,Revenue,Month
+North,Widget A,15000,Jan
+North,Widget B,12000,Feb
+South,Widget A,18000,Jan
+South,Widget C,9000,Feb
+East,Widget B,20000,Jan
+East,Widget C,14000,Feb
+West,Widget A,22000,Jan
+West,Widget B,15000,Feb
+North,Widget C,11000,Mar
+South,Widget B,16000,Mar
+East,Widget A,19000,Mar
+West,Widget C,21000,Mar
